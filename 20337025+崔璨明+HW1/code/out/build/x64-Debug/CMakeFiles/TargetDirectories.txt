@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/计图作业/Assignment1_3D_Transformation/CGAssignment1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/Desktop/计图作业/Assignment1_3D_Transformation/CGAssignment1/out/build/x64-Debug/CMakeFiles/CGAssignment1.dir
+C:/Users/Administrator/Desktop/计图作业/Assignment1_3D_Transformation/CGAssignment1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
